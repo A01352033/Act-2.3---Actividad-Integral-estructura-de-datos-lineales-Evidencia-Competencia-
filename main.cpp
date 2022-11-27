@@ -10,7 +10,7 @@
 #include "header.h"
 #include <string>
 #include <fstream>
-#include "double_linked_list.h"
+#include "DoubleLinkedList.h"
 
 using namespace std;
 
